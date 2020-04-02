@@ -1,3 +1,5 @@
+# Compiled binary folder
+bin/
 
 # Created by https://www.gitignore.io/api/linux,windows,macos,c,c++
 # Edit at https://www.gitignore.io/?templates=linux,windows,macos,c,c++

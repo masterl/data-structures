@@ -8,4 +8,4 @@ Descrições e exemplos de implementação de algumas estruturas de dados
 
 ## LICENÇA
 
-- [MIT](LICENSE)
+- [MIT](/LICENSE)
